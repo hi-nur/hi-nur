@@ -1,60 +1,59 @@
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/hi-nur">
-<img src="https://www.google.com/search?q=https://placehold.co/600x200/2D3748/E2E8F0%3Ftext%3DHi,%2BI%27m%2BKurniawan%2BHilal%2BSubhan%2BNur" alt="Banner">
-</a>
+  <img src="https://placehold.co/600x200/2D3748/E2E8F0?text=Hi,+I'm+Kurniawan+Hilal+Subhan+Nur" alt="Banner" />
 
-<h1 align="center">Hi, I'm Kurniawan Hilal Subhan Nur 👋</h1>
+  <h1>Hi, I'm Kurniawan Hilal Subhan Nur 👋</h1>
+
+  <p>
+    Seorang Junior Full-stack Developer yang bersemangat dari Indonesia 🇮🇩 <br />
+    Tertarik pada pengembangan web, arsitektur microservice, dan open source.
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/kurniawanhilal/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:kurniawanhilal04@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
+
+---
+
+### 👨‍💻 Tentang Saya
+
+Saya seorang **Junior Full-stack Developer** dengan pengalaman membangun aplikasi yang skalabel dan efisien menggunakan arsitektur microservice. Saya bersemangat mempelajari teknologi baru dan berkolaborasi dalam proyek-proyek yang menantang.
+
+- 🌱 Saat ini saya sedang belajar: **Go**, **System Design**, dan **Kubernetes**
+- 📫 Hubungi saya: **kurniawanhilal04@gmail.com**
+- 😄 Panggilan: **Hilal**
+
+---
+
+### 🛠️ Bahasa dan Alat
 <p align="center">
-Seorang junior full-stack Developer yang bersemangat dari Indonesia 🇮🇩
-<br />
-Saya tertarik pada pengembangan web, arsitektur microservice, dan open source.
+  <img src="https://skillicons.dev/icons?i=php,laravel,go,mysql,postgresql,redis,js,git,docker,kubernetes,vscode" />
 </p>
+
+---
+
+### 📊 Statistik GitHub
 
 <div align="center">
-<a href="https://www.linkedin.com/in/kurniawanhilal/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
-</a>
-<a href="mailto:kurniawanhilal04@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
-</a>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=hi-nur&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Statistik GitHub hi-nur" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-nur&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Bahasa Teratas hi-nur" />
 </div>
 
-👨‍💻 Tentang Saya
-Saya seorang Junior Full-stack Developer dengan pengalaman dalam membangun aplikasi yang skalabel dan efisien menggunakan arsitektur microservice. Saya selalu bersemangat untuk mempelajari teknologi baru dan berkolaborasi dalam proyek-proyek yang menantang.
+---
 
-🌱 Saat ini saya sedang belajar lebih dalam tentang Go, System Design, dan Kubernetes.
+### 🏆 Trofi GitHub
 
-📫 Cara menghubungi saya: kurniawanhilal04@gmail.com
-
-😄 Panggilan: Hilal
-
-🛠️ Bahasa dan Alat
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dphp,laravel,go,mysql,postgresql,redis,js,git,docker,kubernetes,vscode" />
-</a>
+  <img src="https://github-profile-trophy.vercel.app/?username=hi-nur&theme=dracula&column=7" alt="Trofi GitHub" />
 </p>
 
-📊 Statistik GitHub
-<div align="center">
-<table>
-<tr>
-<td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dhi-nur%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue" alt="Statistik GitHub hi-nur" />
-</td>
-<td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dhi-nur%26layout%3Dcompact%26langs_count%3D8%26theme%3Ddracula%26hide_border%3Dtrue" alt="Bahasa Teratas hi-nur" />
-</td>
-</tr>
-</table>
-</div>
-
-🏆 Trofi GitHub
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dhi-nur%26theme%3Ddracula%26column%3D7" alt="Trofi GitHub">
-</p>
+---
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dhi-nur%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="Jumlah Pengunjung Profil">
+  <img src="https://komarev.com/ghpvc/?username=hi-nur&label=Profile%20views&color=0e75b6&style=flat" alt="Jumlah Pengunjung Profil" />
 </p>
