@@ -57,12 +57,3 @@ Saya seorang Backend Developer dengan pengalaman dalam membangun aplikasi yang s
 </tr>
 </table>
 </div>
-
-🏆 Trofi GitHub
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dhi-nur%26theme%3Ddracula%26column%3D7" alt="Trofi GitHub">
-</p>
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dhi-nur%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="Jumlah Pengunjung Profil">
-</p>
