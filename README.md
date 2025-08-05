@@ -1,11 +1,11 @@
 <div align="center">
 <a href="https://www.google.com/search?q=https://github.com/hi-nur">
-<img src="https://www.google.com/search?q=https://placehold.co/600x200/2D3748/E2E8F0%3Ftext%3DHi,%2BI%27m%2BKurniawan%2BHilal" alt="Banner">
+<img src="https://www.google.com/search?q=https://placehold.co/600x200/2D3748/E2E8F0%3Ftext%3DHi,%2BI%27m%2BKurniawan%2BHilal%2BSubhan%2BNur" alt="Banner">
 </a>
 
-<h1 align="center">Hi, I'm Kurniawan Hilal 👋</h1>
+<h1 align="center">Hi, I'm Kurniawan Hilal Subhan Nur 👋</h1>
 <p align="center">
-Seorang Backend Developer yang bersemangat dari Indonesia 🇮🇩
+Seorang junior full-stack Developer yang bersemangat dari Indonesia 🇮🇩
 <br />
 Saya tertarik pada pengembangan web, arsitektur microservice, dan open source.
 </p>
@@ -14,28 +14,20 @@ Saya tertarik pada pengembangan web, arsitektur microservice, dan open source.
 <a href="https://www.linkedin.com/in/kurniawanhilal/" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
 </a>
-<a href="mailto:kurniawanhilal@example.com">
+<a href="mailto:kurniawanhilal04@gmail.com">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
 </a>
 </div>
 </div>
 
 👨‍💻 Tentang Saya
-Saya seorang Backend Developer dengan pengalaman dalam membangun aplikasi yang skalabel dan efisien menggunakan arsitektur microservice. Saya selalu bersemangat untuk mempelajari teknologi baru dan berkolaborasi dalam proyek-proyek yang menantang.
-
-🔭 Saat ini saya bekerja mengembangkan dan memelihara layanan backend di [tautan mencurigakan telah dihapus].
+Saya seorang Junior Full-stack Developer dengan pengalaman dalam membangun aplikasi yang skalabel dan efisien menggunakan arsitektur microservice. Saya selalu bersemangat untuk mempelajari teknologi baru dan berkolaborasi dalam proyek-proyek yang menantang.
 
 🌱 Saat ini saya sedang belajar lebih dalam tentang Go, System Design, dan Kubernetes.
 
-👯 Saya terbuka untuk berkolaborasi dalam proyek open-source yang berkaitan dengan pengembangan backend.
-
-💬 Tanya saya tentang PHP, Laravel, Go, MySQL, PostgreSQL, dan Microservices.
-
-📫 Cara menghubungi saya: kurniawanhilal@example.com
+📫 Cara menghubungi saya: kurniawanhilal04@gmail.com
 
 😄 Panggilan: Hilal
-
-⚡ Fakta menarik: Saya suka menjelajahi kedai kopi baru di akhir pekan.
 
 🛠️ Bahasa dan Alat
 <p align="center">
@@ -57,3 +49,12 @@ Saya seorang Backend Developer dengan pengalaman dalam membangun aplikasi yang s
 </tr>
 </table>
 </div>
+
+🏆 Trofi GitHub
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dhi-nur%26theme%3Ddracula%26column%3D7" alt="Trofi GitHub">
+</p>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dhi-nur%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="Jumlah Pengunjung Profil">
+</p>
