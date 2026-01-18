@@ -1,59 +1,73 @@
-<div align="center">
-  <img src="https://placehold.co/600x200/2D3748/E2E8F0?text=Hi,+I'm+Kurniawan+Hilal+Subhan+Nur" alt="Banner" />
+<img src="https://raw.githubusercontent.com/hi-nur/hi-nur/output/snake.svg" alt="Snake animation" />
 
-  <h1>Hi, I'm Kurniawan Hilal Subhan Nur 👋</h1>
+###
 
-  <p>
-    Seorang Junior Full-stack Developer yang bersemangat dari Indonesia 🇮🇩 <br />
-    Tertarik pada pengembangan web, arsitektur microservice, dan open source.
-  </p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/kurniawanhilal/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:kurniawanhilal04@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
----
+###
 
-### 👨‍💻 Tentang Saya
+<h1 align="center">Hi, I'm Kurniawan Hilal Subhan Nur 👋</h1>
 
-Saya seorang **Junior Full-stack Developer** dengan pengalaman membangun aplikasi yang skalabel dan efisien menggunakan arsitektur microservice. Saya bersemangat mempelajari teknologi baru dan berkolaborasi dalam proyek-proyek yang menantang.
+###
 
-- 🌱 Saat ini saya sedang belajar: **Go**, **System Design**, dan **Kubernetes**
-- 📫 Hubungi saya: **kurniawanhilal04@gmail.com**
-- 😄 Panggilan: **Hilal**
+<p align="center">Seorang Junior Full-stack Developer yang bersemangat dari Indonesia.<br>Tertarik pada pengembangan web, arsitektur microservice, dan open source.</p>
 
----
-
-### 🛠️ Bahasa dan Alat
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,go,mysql,postgresql,redis,js,git,docker,kubernetes,vscode" />
-</p>
-
----
-
-### 📊 Statistik GitHub
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hi-nur&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Statistik GitHub hi-nur" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-nur&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Bahasa Teratas hi-nur" />
+  <a href="https://www.linkedin.com/in/kurniawanhilal/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/axiomdev_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:kurniawanhilal04@gmail.co" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
----
+###
 
-### 🏆 Trofi GitHub
+<h4 align="left">🛠️ Bahasa dan Alat</h4>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hi-nur&theme=dracula&column=7" alt="Trofi GitHub" />
-</p>
+###
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hi-nur&label=Profile%20views&color=0e75b6&style=flat" alt="Jumlah Pengunjung Profil" />
-</p>
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hi-nur.hi-nur&"  />
+</div>
+
+###
